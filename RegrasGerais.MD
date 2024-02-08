@@ -14,4 +14,9 @@
 
 7. **Privacidade**: Respeite a privacidade dos outros. Não compartilhe informações pessoais sem permissão.
 
+8. **Das regras**:  Leia todas as regras presentes nos repositórios. Conforme o curso evolui, os repositórios serão aprimorados, ou seja, para cada matéria haverá um novo repositório.
+
+9. **Dos Colaboradores**: Todos que estão no curso e estão corretamente identificados receberão acesso de colaborador aos repositórios. Este acesso tem a finalidade de postar códigos para ajudar, permitindo assim o desenvolvimento colaborativo. Um exemplo é o repositório ‘Portugol-Codigo-Funcionando’, que é destinado à postagem de atividades. No entanto, não se esqueça das regras deste repositório. Os demais repositórios estão abertos para todos. É responsabilidade do estudante aceitar o convite. Leia as regras!
+
+
 Lembre-se, estas são apenas sugestões gerais e podem ser adaptadas conforme necessário para atender às necessidades específicas da sua turma.
